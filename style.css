@@ -1,17 +1,17 @@
 body {
-    background-color: bisque;
+    background-color: #C4CFD4;
     color:rgba(39, 17, 2, 0.904) ;
     font-size: 30px;
 }
 
 h1{
     text-align: center;
-    color: saddlebrown;
+    color: #000000;
 }
 
-h2{
+h3{
     text-align: center;
-    color: sandybrown;
+    color: #7192BE;
 }
 
 h4{
