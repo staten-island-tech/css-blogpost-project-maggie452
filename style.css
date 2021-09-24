@@ -1,4 +1,5 @@
 body {
+    font-family: 'Bebas Neue', cursive;
     background-color: #C4CFD4;
     color:rgba(39, 17, 2, 0.904) ;
     font-size: 30px;
@@ -9,12 +10,12 @@ h1{
     color: #000000;
 }
 
-h3{
+h2{
     text-align: center;
     color: #7192BE;
 }
 
-h4{
+.blogs{
    text-align: left;
-   margin-left: 36px;
+   margin-left: 200px;
 }
